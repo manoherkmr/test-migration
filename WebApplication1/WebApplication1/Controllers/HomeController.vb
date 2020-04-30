@@ -6,7 +6,7 @@
     End Function
 
     Function About() As ActionResult
-        ViewData("Message") = "Your application description page. this is test   dfsdf "
+        ViewData("Message") = "Your application description page. this is test   dfsdfsdasdahsdkas ;ldk;lfkdlf;asdasdasdg"
 
         Return View()
     End Function
